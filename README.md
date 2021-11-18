@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mkaushalsharma
-- 👀 I’m interested in learning R Studio
+- 👀 I’m interested in learning R Studio and nanopolish
 - 🌱 I’m currently learning Galaxy
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me message
